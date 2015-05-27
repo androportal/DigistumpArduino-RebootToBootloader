@@ -9,7 +9,7 @@ Installation
 
 - Download this Repo
 - unpack
-- keep these files under the folder name RebootToBootloader  at /pathto arduino/hardware/digistump/avr/libraries/
+- keep this folder  at /pathto arduino/hardware/digistump/avr/libraries/
 
 :Authors:
   Padmakar Reddy Thatikonda
